@@ -13,6 +13,6 @@ def step_impl(context):
     print('test02')
 
 
-@then("behave 2 will test it for us!123")
+@then("behave 2 will test it for us!")
 def step_impl(context):
     print('test03')
