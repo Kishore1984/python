@@ -1,1 +1,1 @@
-CMD ["echo", "hello world - first docker image"]
+CMD ["echo", "hello world - first docker image      asd"]
